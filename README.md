@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./solutions/13.%20Roman%20to%20Integer.cpp)|12 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
+|118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./solutions/118.%20Pascal's%20Triangle.cpp)|4 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./solutions/709.%20To%20Lower%20Case.cpp)|4 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|0 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[C++](./solutions/1021.%20Remove%20Outermost%20Parentheses.cpp)|8 ms|
