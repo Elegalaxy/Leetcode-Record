@@ -6,6 +6,7 @@
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|0 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](./solutions/1108.%20Defanging%20an%20IP%20Address.cpp)|0 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.cpp)|0 ms|
+|1266|[ Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[C++](./solutions/1266.%20Minimum%20Time%20Visiting%20All%20Points.cpp)|376 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C++](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)|0 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[C++](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)|12 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.cpp)|4 ms|
