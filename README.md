@@ -9,6 +9,7 @@
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./solutions/14.%20Longest%20Common%20Prefix.cpp)|8 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./solutions/20.%20Valid%20Parentheses.cpp)|564 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
+|26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|20 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./solutions/27.%20Remove%20Element.cpp)|4 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|8 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|8 ms|
