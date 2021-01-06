@@ -39,3 +39,4 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./solutions/1512.%20Number%20of%20Good%20Pairs.cpp)|4 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./solutions/1528.%20Shuffle%20String.cpp)|12 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[C++](./solutions/1572.%20Matrix%20Diagonal%20Sum.cpp)|32 ms|
+|1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
