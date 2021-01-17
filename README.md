@@ -25,6 +25,7 @@
 |475|[ Heaters](https://leetcode.com/problems/heaters/)|[C++](./solutions/475.%20Heaters.cpp)|160 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[C++](./solutions/566.%20Reshape%20the%20Matrix.cpp)|20 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./solutions/709.%20To%20Lower%20Case.cpp)|4 ms|
+|744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|16 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|0 ms|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|8 ms|
 |804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[C++](./solutions/804.%20Unique%20Morse%20Code%20Words.cpp)|8 ms|
