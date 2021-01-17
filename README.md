@@ -52,6 +52,7 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./solutions/1512.%20Number%20of%20Good%20Pairs.cpp)|4 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./solutions/1528.%20Shuffle%20String.cpp)|12 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[C++](./solutions/1534.%20Count%20Good%20Triplets.cpp)|44 ms|
+|1545|[ Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[C++](./solutions/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.cpp)|0 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[C++](./solutions/1572.%20Matrix%20Diagonal%20Sum.cpp)|32 ms|
 |1642|[ Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C++](./solutions/1642.%20Furthest%20Building%20You%20Can%20Reach.cpp)|296 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
