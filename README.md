@@ -32,6 +32,7 @@
 |119|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./solutions/119.%20Pascal's%20Triangle%20II.cpp)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|8 ms|
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|4 ms|
+|124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)|28 ms|
 |166|[ Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](./solutions/166.%20Fraction%20to%20Recurring%20Decimal.cpp)|4 ms|
 |187|[ Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](./solutions/187.%20Repeated%20DNA%20Sequences.cpp)|60 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./solutions/202.%20Happy%20Number.cpp)|4 ms|
