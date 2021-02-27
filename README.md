@@ -39,6 +39,7 @@
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./solutions/232.%20Implement%20Queue%20using%20Stacks.cpp)|0 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|20 ms|
 |401|[ Binary Watch](https://leetcode.com/problems/binary-watch/)|[C++](./solutions/401.%20Binary%20Watch.cpp)|0 ms|
+|421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)|240 ms|
 |475|[ Heaters](https://leetcode.com/problems/heaters/)|[C++](./solutions/475.%20Heaters.cpp)|160 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|672 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[C++](./solutions/566.%20Reshape%20the%20Matrix.cpp)|20 ms|
