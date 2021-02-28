@@ -64,6 +64,7 @@
 |1129|[ Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[C++](./solutions/1129.%20Shortest%20Path%20with%20Alternating%20Colors.cpp)|24 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.cpp)|0 ms|
 |1240|[ Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/)|[C++](./solutions/1240.%20Tiling%20a%20Rectangle%20with%20the%20Fewest%20Squares.cpp)|20 ms|
+|1253|[ Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[C++](./solutions/1253.%20Reconstruct%20a%202-Row%20Binary%20Matrix.cpp)|68 ms|
 |1266|[ Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[C++](./solutions/1266.%20Minimum%20Time%20Visiting%20All%20Points.cpp)|376 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C++](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)|0 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[C++](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)|12 ms|
