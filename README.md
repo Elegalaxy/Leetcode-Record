@@ -45,6 +45,7 @@
 |475|[ Heaters](https://leetcode.com/problems/heaters/)|[C++](./solutions/475.%20Heaters.cpp)|160 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|672 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[C++](./solutions/566.%20Reshape%20the%20Matrix.cpp)|20 ms|
+|637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|12 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|28 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|12 ms|
 |664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|172 ms|
