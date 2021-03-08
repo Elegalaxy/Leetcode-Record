@@ -75,6 +75,7 @@
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[C++](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)|12 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.cpp)|4 ms|
 |1320|[ Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)|[C++](./solutions/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.cpp)|748 ms|
+|1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./solutions/1332.%20Remove%20Palindromic%20Subsequences.cpp)|0 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.cpp)|56 ms|
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[C++](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.cpp)|4 ms|
