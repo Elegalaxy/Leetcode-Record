@@ -65,6 +65,7 @@
 |878|[ Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[C++](./solutions/878.%20Nth%20Magical%20Number.cpp)|0 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|180 ms|
 |909|[ Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[C++](./solutions/909.%20Snakes%20and%20Ladders.cpp)|28 ms|
+|971|[ Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|[C++](./solutions/971.%20Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.cpp)|N/A|
 |981|[ Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[C++](./solutions/981.%20Time%20Based%20Key-Value%20Store.cpp)|324 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|36 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|0 ms|
