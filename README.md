@@ -46,6 +46,7 @@
 |401|[ Binary Watch](https://leetcode.com/problems/binary-watch/)|[C++](./solutions/401.%20Binary%20Watch.cpp)|0 ms|
 |421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)|240 ms|
 |423|[ Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[C++](./solutions/423.%20Reconstruct%20Original%20Digits%20from%20English.cpp)|36 ms|
+|474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./solutions/474.%20Ones%20and%20Zeroes.cpp)|200 ms|
 |475|[ Heaters](https://leetcode.com/problems/heaters/)|[C++](./solutions/475.%20Heaters.cpp)|160 ms|
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./solutions/535.%20Encode%20and%20Decode%20TinyURL.cpp)|4 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|672 ms|
