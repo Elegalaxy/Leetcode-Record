@@ -60,6 +60,7 @@
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./solutions/709.%20To%20Lower%20Case.cpp)|4 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|16 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|0 ms|
+|775|[ Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[C++](./solutions/775.%20Global%20and%20Local%20Inversions.cpp)|N/A|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|8 ms|
 |804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[C++](./solutions/804.%20Unique%20Morse%20Code%20Words.cpp)|8 ms|
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./solutions/820.%20Short%20Encoding%20of%20Words.cpp)|304 ms|
