@@ -112,6 +112,7 @@
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[C++](./solutions/1534.%20Count%20Good%20Triplets.cpp)|44 ms|
 |1545|[ Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[C++](./solutions/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.cpp)|0 ms|
 |1551|[ Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[C++](./solutions/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.cpp)|0 ms|
+|1568|[ Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)|[C++](./solutions/1568.%20Minimum%20Number%20of%20Days%20to%20Disconnect%20Island.cpp)|156 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[C++](./solutions/1572.%20Matrix%20Diagonal%20Sum.cpp)|32 ms|
 |1582|[ Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[C++](./solutions/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix.cpp)|36 ms|
 |1608|[ Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[C++](./solutions/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)|4 ms|
