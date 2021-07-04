@@ -48,6 +48,7 @@
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|16 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|40 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./solutions/354.%20Russian%20Doll%20Envelopes.cpp)|44 ms|
+|363|[ Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[C++](./solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp)|680 ms|
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](./solutions/376.%20Wiggle%20Subsequence.cpp)|0 ms|
 |401|[ Binary Watch](https://leetcode.com/problems/binary-watch/)|[C++](./solutions/401.%20Binary%20Watch.cpp)|0 ms|
 |421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)|240 ms|
