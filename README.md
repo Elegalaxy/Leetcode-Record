@@ -57,6 +57,7 @@
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C++](./solutions/450.%20Delete%20Node%20in%20a%20BST.cpp)|61 ms|
 |474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./solutions/474.%20Ones%20and%20Zeroes.cpp)|200 ms|
 |475|[ Heaters](https://leetcode.com/problems/heaters/)|[C++](./solutions/475.%20Heaters.cpp)|160 ms|
+|480|[ Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[C++](./solutions/480.%20Sliding%20Window%20Median.cpp)|296 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./solutions/535.%20Encode%20and%20Decode%20TinyURL.cpp)|4 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|672 ms|
