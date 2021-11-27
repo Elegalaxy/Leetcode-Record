@@ -147,3 +147,4 @@
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[C++](./solutions/1816.%20Truncate%20Sentence.cpp)|0 ms|
 |1889|[ Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)|[C++](./solutions/1889.%20Minimum%20Space%20Wasted%20From%20Packaging.cpp)|288 ms|
 |2075|[ Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)|[C++](./solutions/2075.%20Decode%20the%20Slanted%20Ciphertext.cpp)|109 ms|
+|2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)|49 ms|
