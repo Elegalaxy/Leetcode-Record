@@ -48,6 +48,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|12 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|20 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|16 ms|
+|279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](./solutions/279.%20Perfect%20Squares.cpp)|376 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|40 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./solutions/354.%20Russian%20Doll%20Envelopes.cpp)|44 ms|
 |363|[ Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[C++](./solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp)|680 ms|
