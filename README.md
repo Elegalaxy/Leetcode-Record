@@ -60,7 +60,7 @@
 |423|[ Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[C++](./solutions/423.%20Reconstruct%20Original%20Digits%20from%20English.cpp)|36 ms|
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](./solutions/437.%20Path%20Sum%20III.cpp)|8 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[C++](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp)|48 ms|
-|443|[ String Compression](https://leetcode.com/problems/string-compression/)|[C++](./solutions/443.%20String%20Compression.cpp)|12 ms|
+|443|[ String Compression](https://leetcode.com/problems/string-compression/)|[C++](./solutions/443.%20String%20Compression.cpp)|4 ms|
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C++](./solutions/450.%20Delete%20Node%20in%20a%20BST.cpp)|61 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./solutions/463.%20Island%20Perimeter.cpp)|132 ms|
 |474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./solutions/474.%20Ones%20and%20Zeroes.cpp)|200 ms|
