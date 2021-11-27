@@ -135,3 +135,4 @@
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|560 ms|
 |1785|[ Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[C++](./solutions/1785.%20Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum.cpp)|164 ms|
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[C++](./solutions/1816.%20Truncate%20Sentence.cpp)|0 ms|
+|2075|[ Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)|[C++](./solutions/2075.%20Decode%20the%20Slanted%20Ciphertext.cpp)|109 ms|
