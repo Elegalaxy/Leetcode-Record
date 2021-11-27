@@ -64,6 +64,7 @@
 |480|[ Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[C++](./solutions/480.%20Sliding%20Window%20Median.cpp)|296 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./solutions/535.%20Encode%20and%20Decode%20TinyURL.cpp)|4 ms|
+|543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|4 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|672 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[C++](./solutions/566.%20Reshape%20the%20Matrix.cpp)|20 ms|
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C++](./solutions/622.%20Design%20Circular%20Queue.cpp)|20 ms|
