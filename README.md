@@ -94,6 +94,7 @@
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|36 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|0 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[C++](./solutions/1002.%20Find%20Common%20Characters.cpp)|8 ms|
+|1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)|0 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[C++](./solutions/1021.%20Remove%20Outermost%20Parentheses.cpp)|8 ms|
 |1089|[ Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[C++](./solutions/1089.%20Duplicate%20Zeros.cpp)|20 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](./solutions/1108.%20Defanging%20an%20IP%20Address.cpp)|0 ms|
