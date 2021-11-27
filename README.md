@@ -69,6 +69,7 @@
 |664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|172 ms|
 |667|[ Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[C++](./solutions/667.%20Beautiful%20Arrangement%20II.cpp)|4 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./solutions/709.%20To%20Lower%20Case.cpp)|4 ms|
+|713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.cpp)|184 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|16 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|0 ms|
 |775|[ Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[C++](./solutions/775.%20Global%20and%20Local%20Inversions.cpp)|N/A|
