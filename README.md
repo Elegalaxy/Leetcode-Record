@@ -150,3 +150,4 @@
 |2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)|49 ms|
 |2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|28 ms|
 |2087|[ Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)|[C++](./solutions/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.cpp)|140 ms|
+|2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[C++](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.cpp)|8 ms|
