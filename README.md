@@ -151,3 +151,4 @@
 |2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|28 ms|
 |2087|[ Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)|[C++](./solutions/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.cpp)|140 ms|
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[C++](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.cpp)|8 ms|
+|2090|[ K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)|[C++](./solutions/2090.%20K%20Radius%20Subarray%20Averages.cpp)|269 ms|
