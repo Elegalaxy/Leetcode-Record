@@ -153,3 +153,4 @@
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[C++](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.cpp)|8 ms|
 |2090|[ K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)|[C++](./solutions/2090.%20K%20Radius%20Subarray%20Averages.cpp)|269 ms|
 |2091|[ Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)|[C++](./solutions/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.cpp)|200 ms|
+|2092|[ Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)|[C++](./solutions/2092.%20Find%20All%20People%20With%20Secret.cpp)|844 ms|
