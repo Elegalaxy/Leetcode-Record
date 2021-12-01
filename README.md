@@ -31,6 +31,7 @@
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[C++](./solutions/66.%20Plus%20One.cpp)|4 ms|
 |73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./solutions/73.%20Set%20Matrix%20Zeroes.cpp)|8 ms|
+|85|[ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](./solutions/85.%20Maximal%20Rectangle.cpp)|28 ms|
 |86|[ Partition List](https://leetcode.com/problems/partition-list/)|[C++](./solutions/86.%20Partition%20List.cpp)|4 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./solutions/88.%20Merge%20Sorted%20Array.cpp)|4 ms|
 |89|[ Gray Code](https://leetcode.com/problems/gray-code/)|[C++](./solutions/89.%20Gray%20Code.cpp)|64 ms|
