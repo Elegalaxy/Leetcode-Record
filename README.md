@@ -93,7 +93,7 @@
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./solutions/820.%20Short%20Encoding%20of%20Words.cpp)|304 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[C++](./solutions/841.%20Keys%20and%20Rooms.cpp)|8 ms|
 |843|[ Guess the Word](https://leetcode.com/problems/guess-the-word/)|[C++](./solutions/843.%20Guess%20the%20Word.cpp)|3 ms|
-|844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./solutions/844.%20Backspace%20String%20Compare.cpp)|4 ms|
+|844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./solutions/844.%20Backspace%20String%20Compare.cpp)|0 ms|
 |857|[ Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[C++](./solutions/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.cpp)|160 ms|
 |869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[C++](./solutions/869.%20Reordered%20Power%20of%202.cpp)|4 ms|
 |873|[ Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[C++](./solutions/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.cpp)|296 ms|
