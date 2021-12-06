@@ -112,6 +112,7 @@
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](./solutions/1108.%20Defanging%20an%20IP%20Address.cpp)|0 ms|
 |1129|[ Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[C++](./solutions/1129.%20Shortest%20Path%20with%20Alternating%20Colors.cpp)|24 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C++](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|16 ms|
+|1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|4 ms|
 |1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[C++](./solutions/1220.%20Count%20Vowels%20Permutation.cpp)|64 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.cpp)|0 ms|
 |1240|[ Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/)|[C++](./solutions/1240.%20Tiling%20a%20Rectangle%20with%20the%20Fewest%20Squares.cpp)|20 ms|
