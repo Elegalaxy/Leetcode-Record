@@ -75,6 +75,7 @@
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./solutions/535.%20Encode%20and%20Decode%20TinyURL.cpp)|4 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|4 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|672 ms|
+|563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[C++](./solutions/563.%20Binary%20Tree%20Tilt.cpp)|12 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[C++](./solutions/566.%20Reshape%20the%20Matrix.cpp)|20 ms|
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C++](./solutions/622.%20Design%20Circular%20Queue.cpp)|20 ms|
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|12 ms|
