@@ -124,6 +124,7 @@
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)|0 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[C++](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)|12 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|36 ms|
+|1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|40 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.cpp)|4 ms|
 |1320|[ Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)|[C++](./solutions/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.cpp)|748 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./solutions/1332.%20Remove%20Palindromic%20Subsequences.cpp)|0 ms|
