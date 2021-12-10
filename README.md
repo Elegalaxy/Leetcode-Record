@@ -157,6 +157,7 @@
 |1785|[ Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[C++](./solutions/1785.%20Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum.cpp)|164 ms|
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[C++](./solutions/1816.%20Truncate%20Sentence.cpp)|0 ms|
 |1889|[ Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)|[C++](./solutions/1889.%20Minimum%20Space%20Wasted%20From%20Packaging.cpp)|288 ms|
+|2073|[ Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)|[C++](./solutions/2073.%20Time%20Needed%20to%20Buy%20Tickets.cpp)|0 ms|
 |2075|[ Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)|[C++](./solutions/2075.%20Decode%20the%20Slanted%20Ciphertext.cpp)|109 ms|
 |2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)|49 ms|
 |2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|28 ms|
